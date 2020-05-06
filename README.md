@@ -1,6 +1,6 @@
 # CS571 Homework 08
 ## Using Expo SDK
-Create a new Expo React Native application and add ReactNavigation to show a Stack Navigator with the following screens:
+Create a new Expo React Native application and add `ReactNavigation` to boot a Stack Navigator with the following screens:
 * `Home` screen
 * `Contacts` screen
 * `Map` screen
