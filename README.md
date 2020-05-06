@@ -7,7 +7,7 @@ Create a new Expo React Native application and add `ReactNavigation` to boot a S
 * `Gallery` screen
 * `Camera` screen  
 ## Screens' Details  
-* The `Home` screen will display 4 buttons to navigate through the rest of components.
+* The `Home` screen will display 4 buttons to navigate through the rest of components. Align the buttons to be centered vertically and horizontally within the screen.
 * The `Contacts` screen will display a list of user's contacts using `SectionList` component.  
 * The `Map` screen will display a map with a marker to the user's current location.
 * The `Gallery` screen will display a button to open the `ImagePicker` and displays the user's selected image.
