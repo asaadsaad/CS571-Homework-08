@@ -14,3 +14,5 @@ Create a new Expo React Native application and add `ReactNavigation` to boot a S
 * The `Camera` screen will access the user's camera and offers two functionalities:
     * A button to flip the camera (Font/Back)
     * A button to take a picture and add it to the user's photo library.
+  
+**Note:** In order for the app to access `Contacts`, `Map`, `Gallery`, and `Camera` APIs, you will need to receive a `'granted'` permission status for each API.
